@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Matt
 
-<!--
-**msteines0312/msteines0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior at UW-Madison studying Information Science with a Data Science 
+certificate, graduating May 2026. Looking for full-time roles in data 
+analytics, business intelligence, or data science in Chicago and beyond.
 
-Here are some ideas to get you started:
+## What I work with
+Python · R · SQL · Tableau · pandas · scikit-learn · HTML/CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Second Spin](https://github.com/msteines0312/steines-second-spin)** 
+  — Music blog powered by Spotify + Last.fm APIs, KNN recommendation 
+  engine, ETL pipeline, frontend built from scratch
+- **[CTA Underutilized Routes](https://github.com/msteines0312/cta-analysis)** 
+  — Policy brief analyzing post-COVID CTA ridership with Python and 
+  Tableau
+- **[S&P 500 R&D Analysis](https://github.com/msteines0312/sp-analysis)** 
+  — MySQL database + ETL pipeline analyzing R&D spending across 251 
+  companies using SEC EDGAR data
+
+## Find me
+[Portfolio](https://portfolio-ebon-mu-75.vercel.app) · 
+[LinkedIn](https://www.linkedin.com/in/matthew-steines/) · 
+msteines0312@gmail.com
