@@ -1,7 +1,7 @@
 # Hey, I'm Matt
 
-Senior at UW-Madison studying Information Science with a Data Science 
-certificate, graduating May 2026. Looking for full-time roles in data 
+UW-Madison BS(Information Science) graduate with a Data Science 
+certificate. Looking for full-time roles in data 
 analytics, business intelligence, or data science in Chicago and beyond.
 
 ## What I work with
