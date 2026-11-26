@@ -14,9 +14,9 @@ Python · R · SQL · Tableau · pandas · scikit-learn · HTML/CSS/JS
 - **[CTA Underutilized Routes](https://github.com/msteines0312/cta-analysis)** 
   — Policy brief analyzing post-COVID CTA ridership with Python and 
   Tableau
-- **[S&P 500 R&D Analysis](https://github.com/msteines0312/sp-analysis)** 
-  — MySQL database + ETL pipeline analyzing R&D spending across 251 
-  companies using SEC EDGAR data
+- **[S&P 500 R&D Analysis](https://github.com/msteines0312/sp-analysis)**: 
+  MySQL database and ETL pipeline analyzing R&D spending across 256 
+  companies using SEC 10-K data
 
 ## Find me
 [Portfolio](https://portfolio-ebon-mu-75.vercel.app) · 
